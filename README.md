@@ -3,13 +3,11 @@
 <h3 align="center">I am a student at SMKN 1 Cimahi (Indonesia)</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🔭 I’m currently working on **Infinys System Indonesia**
+- 🔭 I’m Undergraduate on **Teknik Informatika - POLBAN**
 
 - 🌱 I’m currently learning **Deployment Server**
 
-- 💬 Ask me about **my mom**
-
-- ⚡ Fun fact **I think i am funny**
+- 💬 Ask me about **anything**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
